@@ -12,3 +12,8 @@ Project Goals:
 
 
 Please note that you must use COCO format in a Roboflow dataset
+
+How to use the code:
+1. Replace the API key with your own dataset (make sure it is in COCO format)
+2. Run the code
+3. Uplaod the code in google collab
